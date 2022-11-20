@@ -11,6 +11,7 @@ Running the example from the command line
 -------------------
 ```
 $ mvn jetty:run
+yuiooiuy
 ```
 
 Open [http://localhost:8080/](http://localhost:8080/)
